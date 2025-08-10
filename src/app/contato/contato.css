@@ -1,0 +1,11 @@
+form{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 70px 70px;
+}
+form button{
+    margin-top: 50px;
+    width: 300px;
+}

@@ -1,0 +1,51 @@
+.table{
+    margin: 70px 70px;
+}
+    .add{
+        margin: 50px 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .add h3{
+        font-size: 20px;
+        color: blue;
+    }
+    .add h3 a{
+        text-decoration: none;
+    }
+    .add{
+        margin: 50px 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .add h3{
+        font-size: 20px;
+        color: blue;
+    }
+    .add h3 a{
+        text-decoration: none;
+    }
+@media (max-width:760px){
+    .table{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    tr{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    th{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}

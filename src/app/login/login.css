@@ -1,0 +1,12 @@
+.container{
+    margin: 70px 70px;
+}
+form .resposta{
+    justify-content: center;display: flex;
+    align-items: center;
+    margin: 15px 15px;
+}
+form .resposta p{
+    font-size: 18px;
+    color: red;
+}

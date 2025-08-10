@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 80px 100px;
+}
+main .container h2{
+    font-size: 50px;
+}
+main .container h4{
+    font-size: 20px;
+}

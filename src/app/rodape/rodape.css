@@ -1,0 +1,32 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+footer .links{
+    margin-top: 170px;
+}
+footer .links .footer{
+    margin: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+footer .links .footer p{
+    font-size: 13px;
+
+}
+footer .links .footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+footer .links .footer b{
+    font-size: 13px;
+    color: white;
+}
